@@ -1,10 +1,10 @@
 # Hey there 👋
 
-I'm Ritik, a software engineer based in Germany.
+I'm Ritik, a full stack developer based in Germany.
 
-I mostly work on frontend stuff — React, TypeScript, Tailwind, and a bit of animation with Framer Motion.
+I work across the entire stack — from building interfaces with React and TypeScript to developing robust APIs and managing databases.
 
-I also use Figma for UI design and Procreate when I want to sketch ideas.
+I also use Figma for UI design and Procreate when I want to sketch out system architectures or ideas.
 
 This is a fresh profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. Everything here is built from scratch, no copy/paste templates.
 
@@ -12,9 +12,9 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 
 ## Tools & Tech
 
-* React, TypeScript, Tailwind
-* Framer Motion for animations
-* Figma, Apple Notes, Procreate
+* **Frontend:** React, TypeScript, Tailwind, Framer Motion
+* **Backend:** Node.js, Express, PostgreSQL / MongoDB
+* **Design:** Figma, Apple Notes, Procreate
 
 ---
 
