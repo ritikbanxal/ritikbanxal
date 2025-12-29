@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Ritik, a full stack developer based in Germany.
+I'm Ritik, a full stack developer based in India.
 
 I work across the entire stack — from building interfaces with React and TypeScript to developing robust APIs and managing databases.
 
